@@ -1,0 +1,29 @@
+Created by Jane Kang, March 11th 2014
+iOS 7 required
+
+basic functionalities
+- saves a picture with title, comment
+- allow user to search for picture on instagram and flickr
+- allow user to take a picture with camera or pick a picture from photo album
+- tweet the picture
+- apply filters to picture
+- crop a picture
+- edit a picture after saving it
+- database
+- app icon
+
+additional functionalities
+- launch icon
+- save, edit, delete button on the navbar
+- undo enabled on filter editor
+- undo all enabled on picture cropper
+- tabbar icons
+- add/edit/detailview images customized to the height of the view
+  (if the screen is longer than usual, images extend)
+- image placeholder on camera view controller
+- double tap on camera view image pop the camera view controller
+- resizable cropper with pinches, size reset enabled
+- image savable with image placeholder, no title, no comment
+- alert when user tried to tweet without logging into twitter
+- clear images and search queries on re-pushing search view
+- button text change color on touch
